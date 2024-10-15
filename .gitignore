@@ -1,0 +1,22 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+android/app/src/main/res/mipmap*
+*.iml
+*.hprof
+*.swp
+.DS_Store
+
+# React Native Debugger
+*.jsbundle
+*.jsc
+
+# Environment variables
+.env
